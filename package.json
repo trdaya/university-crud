@@ -1,0 +1,23 @@
+{
+  "name": "university-crud",
+  "version": "1.0.0",
+  "description": "Just a sample app CRUD app using node, express, mongo and react :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trdaya/university-crud.git"
+  },
+  "author": "TRDS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trdaya/university-crud/issues"
+  },
+  "homepage": "https://github.com/trdaya/university-crud#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
