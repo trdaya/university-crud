@@ -1,2 +1,2 @@
 # university-crud
-Just a sample app CRUD app using node, express, mongo and react :)
+Just a sample CRUD app using node, express, mongo and react
